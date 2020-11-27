@@ -1,3 +1,4 @@
+const getContent = require("./streamer");
 describe("GetContent function", () => {
 	test("it should return a valid data weather.", () => {
 		const weather = getContent("weather");
