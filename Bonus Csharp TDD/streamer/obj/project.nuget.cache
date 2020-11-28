@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "onX9XwfA89//aac/8+9GIh9+8SDWaShsLYQbEFgH+K/F4WGth0ionK2iUiG7eQ/Z+vsxk4aFcKXo92ZKuGzceA==",
+  "success": true,
+  "projectFilePath": "D:\\CodeBoxx\\Odyssey\\Csharp version complete TDD\\ElevatorMediaTDD\\streamer\\streamer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\saade\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\saade\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

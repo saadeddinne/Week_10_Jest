@@ -1,0 +1,4 @@
+D:\CodeBoxx\Odyssey\Csharp version complete TDD\ElevatorMediaTDD\streamer.Tests\obj\Debug\netcoreapp3.1\streamer.Tests.csprojAssemblyReference.cache
+D:\CodeBoxx\Odyssey\Csharp version complete TDD\ElevatorMediaTDD\streamer.Tests\obj\Debug\netcoreapp3.1\streamer.Tests.AssemblyInfoInputs.cache
+D:\CodeBoxx\Odyssey\Csharp version complete TDD\ElevatorMediaTDD\streamer.Tests\obj\Debug\netcoreapp3.1\streamer.Tests.AssemblyInfo.cs
+D:\CodeBoxx\Odyssey\Csharp version complete TDD\ElevatorMediaTDD\streamer.Tests\obj\Debug\netcoreapp3.1\streamer.Tests.csproj.CoreCompileInputs.cache
